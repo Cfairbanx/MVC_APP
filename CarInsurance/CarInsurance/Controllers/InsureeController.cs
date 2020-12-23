@@ -184,5 +184,24 @@ namespace CarInsurance.Controllers
             base.Dispose(disposing);
         }
 
+        public ActionResult Admin()
+        {
+            using (InsuranceEntities db = new InsuranceEntities())
+            {
+                var members = db.Tables;
+                var memberVms = new List<Table>();
+                foreach (var member in members)
+                {
+                    var memberVm = new Table();
+                    memberVm.FirstName = member.FirstName;
+                    memberVm.LastName = member.LastName;
+                    memberVm.EmailAddress = member.EmailAddress;
+                    memberVm.Quote = member.Quote;
+                    memberVms.Add(memberVm);
+                }
+                return View(memberVms);
+            }
+        }
+
     }
 }

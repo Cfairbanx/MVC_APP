@@ -1,0 +1,67 @@
+﻿@model IEnumerable<CarInsurance.Models.Table>
+
+<table class="table">
+  <tr>
+    <th>
+      @Html.DisplayNameFor(model => model.FirstName)
+    </th>
+    <th>
+      @Html.DisplayNameFor(model => model.LastName)
+    </th>
+    <th>
+      @Html.DisplayNameFor(model => model.EmailAddress)
+    </th>
+    <th>
+      @Html.DisplayNameFor(model => model.Quote)
+    </th>
+    <th></th>
+  </tr>
+
+  @foreach (var item in Model)
+  {
+    <tr>
+      <td>
+        @Html.DisplayFor(modelItem => item.FirstName)
+      </td>
+      <td>
+        @Html.DisplayFor(modelItem => item.LastName)
+      </td>
+      <td>
+        @Html.DisplayFor(modelItem => item.EmailAddress)
+      </td>
+      <td>
+        @Html.DisplayFor(modelItem => item.Quote)
+      </td>
+    </tr>
+  }
+
+</table>
+
+
+@*<div class="card-header text-center">
+    <h5 class="m-0">Members</h5>
+  </div>
+  <div class="card-body">
+    @foreach (var member in Model)
+    {
+      using (Html.BeginForm("Unsubscribe", "Admin", FormMethod.Post))
+      {
+        <input type="hidden" name="Id" value="@member.Id" />
+        <div class="row mb-3">
+          <div class="col-2">
+            @member.FirstName
+          </div>
+          <div class="col">
+            @member.LastName
+          </div>
+          <div class="col-3">
+            @member.EmailAddress
+          </div>
+          <div class="col">
+            @member.Quote
+          </div>
+        </div>
+      }
+    }
+
+  </div>*@
