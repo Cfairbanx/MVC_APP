@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeApp", "DateTimeApp\DateTimeApp.csproj", "{160E332A-59A8-41E7-897A-0957D5D1C1BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{160E332A-59A8-41E7-897A-0957D5D1C1BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{160E332A-59A8-41E7-897A-0957D5D1C1BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{160E332A-59A8-41E7-897A-0957D5D1C1BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{160E332A-59A8-41E7-897A-0957D5D1C1BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9A1380D-A813-4A3B-9097-C7A21872FEC9}
+	EndGlobalSection
+EndGlobal

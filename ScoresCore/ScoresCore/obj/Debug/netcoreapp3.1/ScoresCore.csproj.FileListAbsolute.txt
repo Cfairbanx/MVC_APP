@@ -1,0 +1,13 @@
+C:\Users\ccfai\OneDrive\Desktop\MVCAPP\MVC_APP\ScoresCore\ScoresCore\bin\Debug\netcoreapp3.1\ScoresCore.exe
+C:\Users\ccfai\OneDrive\Desktop\MVCAPP\MVC_APP\ScoresCore\ScoresCore\bin\Debug\netcoreapp3.1\ScoresCore.deps.json
+C:\Users\ccfai\OneDrive\Desktop\MVCAPP\MVC_APP\ScoresCore\ScoresCore\bin\Debug\netcoreapp3.1\ScoresCore.runtimeconfig.json
+C:\Users\ccfai\OneDrive\Desktop\MVCAPP\MVC_APP\ScoresCore\ScoresCore\bin\Debug\netcoreapp3.1\ScoresCore.runtimeconfig.dev.json
+C:\Users\ccfai\OneDrive\Desktop\MVCAPP\MVC_APP\ScoresCore\ScoresCore\bin\Debug\netcoreapp3.1\ScoresCore.dll
+C:\Users\ccfai\OneDrive\Desktop\MVCAPP\MVC_APP\ScoresCore\ScoresCore\bin\Debug\netcoreapp3.1\ScoresCore.pdb
+C:\Users\ccfai\OneDrive\Desktop\MVCAPP\MVC_APP\ScoresCore\ScoresCore\obj\Debug\netcoreapp3.1\ScoresCore.csprojAssemblyReference.cache
+C:\Users\ccfai\OneDrive\Desktop\MVCAPP\MVC_APP\ScoresCore\ScoresCore\obj\Debug\netcoreapp3.1\ScoresCore.AssemblyInfoInputs.cache
+C:\Users\ccfai\OneDrive\Desktop\MVCAPP\MVC_APP\ScoresCore\ScoresCore\obj\Debug\netcoreapp3.1\ScoresCore.AssemblyInfo.cs
+C:\Users\ccfai\OneDrive\Desktop\MVCAPP\MVC_APP\ScoresCore\ScoresCore\obj\Debug\netcoreapp3.1\ScoresCore.csproj.CoreCompileInputs.cache
+C:\Users\ccfai\OneDrive\Desktop\MVCAPP\MVC_APP\ScoresCore\ScoresCore\obj\Debug\netcoreapp3.1\ScoresCore.dll
+C:\Users\ccfai\OneDrive\Desktop\MVCAPP\MVC_APP\ScoresCore\ScoresCore\obj\Debug\netcoreapp3.1\ScoresCore.pdb
+C:\Users\ccfai\OneDrive\Desktop\MVCAPP\MVC_APP\ScoresCore\ScoresCore\obj\Debug\netcoreapp3.1\ScoresCore.genruntimeconfig.cache

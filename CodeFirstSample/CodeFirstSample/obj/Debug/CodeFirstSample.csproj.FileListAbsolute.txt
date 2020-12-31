@@ -1,0 +1,12 @@
+C:\Users\ccfai\OneDrive\Desktop\MVCAPP\MVC_APP\CodeFirstSample\CodeFirstSample\bin\Debug\CodeFirstSample.exe.config
+C:\Users\ccfai\OneDrive\Desktop\MVCAPP\MVC_APP\CodeFirstSample\CodeFirstSample\bin\Debug\CodeFirstSample.exe
+C:\Users\ccfai\OneDrive\Desktop\MVCAPP\MVC_APP\CodeFirstSample\CodeFirstSample\bin\Debug\CodeFirstSample.pdb
+C:\Users\ccfai\OneDrive\Desktop\MVCAPP\MVC_APP\CodeFirstSample\CodeFirstSample\bin\Debug\EntityFramework.dll
+C:\Users\ccfai\OneDrive\Desktop\MVCAPP\MVC_APP\CodeFirstSample\CodeFirstSample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ccfai\OneDrive\Desktop\MVCAPP\MVC_APP\CodeFirstSample\CodeFirstSample\bin\Debug\EntityFramework.xml
+C:\Users\ccfai\OneDrive\Desktop\MVCAPP\MVC_APP\CodeFirstSample\CodeFirstSample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ccfai\OneDrive\Desktop\MVCAPP\MVC_APP\CodeFirstSample\CodeFirstSample\obj\Debug\CodeFirstSample.csprojAssemblyReference.cache
+C:\Users\ccfai\OneDrive\Desktop\MVCAPP\MVC_APP\CodeFirstSample\CodeFirstSample\obj\Debug\CodeFirstSample.csproj.CoreCompileInputs.cache
+C:\Users\ccfai\OneDrive\Desktop\MVCAPP\MVC_APP\CodeFirstSample\CodeFirstSample\obj\Debug\CodeFirstSample.csproj.CopyComplete
+C:\Users\ccfai\OneDrive\Desktop\MVCAPP\MVC_APP\CodeFirstSample\CodeFirstSample\obj\Debug\CodeFirstSample.exe
+C:\Users\ccfai\OneDrive\Desktop\MVCAPP\MVC_APP\CodeFirstSample\CodeFirstSample\obj\Debug\CodeFirstSample.pdb
