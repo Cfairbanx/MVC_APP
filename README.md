@@ -6,13 +6,13 @@
 
 These are some projects that I created using C#. 
 The links below demonstrate stronger skills.
-[car insurance](car insurance)
-[newsletter App](newsletter app)
+[car insurance](car-insurance)
+[newsletter App](newsletter-app)
 
 
 The links below demonstrate concepts and basic skills.
 [appdatetime](appdatetime)
-[codefirst sample](codefirst sample)
+[codefirst sample](codefirst-sample)
 [scorescore](scorescore)
 [techacadstudentsmvc](techacadstudentsmvc)
 
