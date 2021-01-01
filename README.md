@@ -10,11 +10,11 @@ The links below demonstrate stronger skills. <br>
 [newsletter App](newsletter-app)
 
 
-The links below demonstrate concepts and basic skills.
-[appdatetime](appdatetime)
-[codefirst sample](codefirst-sample)
-[scorescore](scorescore)
-[techacadstudentsmvc](techacadstudentsmvc)
+The links below demonstrate concepts and basic skills. <br>
+[appdatetime](appdatetime) <br>
+[codefirst sample](codefirst-sample) <br>
+[scorescore](scorescore) <br>
+[techacadstudentsmvc](techacadstudentsmvc) <br>
 
 
 
