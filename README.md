@@ -1,7 +1,5 @@
 # MVC_APP
  
-# MVC_APP
- 
 ## Introduction
 
 These are some projects that I created using C#. <br>
