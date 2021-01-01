@@ -4,9 +4,9 @@
  
 ## Introduction
 
-These are some projects that I created using C#. 
-The links below demonstrate stronger skills.
-[car insurance](car-insurance)
+These are some projects that I created using C#. <br>
+The links below demonstrate stronger skills. <br>
+[car insurance](car-insurance) <br>
 [newsletter App](newsletter-app)
 
 
